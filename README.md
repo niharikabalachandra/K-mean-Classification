@@ -13,4 +13,4 @@ Finally, take help of the cross-validation method to determine the percentage of
 
 For the given example the percentage of identification that happens correctly is 65.36% and the k-means classification looks like this:
 
-![Alt text](/relative/path/to/Pred_default_kmeans.png?raw=true "K-means Classification")
+![Alt text](/relative/path/to/Pred_default_kmeans.jpeg?raw=true "K-means Classification")
